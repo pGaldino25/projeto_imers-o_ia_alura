@@ -27,6 +27,6 @@ Com base nos dados da planilha e nas respostas do usuário, o modelo de intelig�
 1. Instale as dependências do projeto executando o comando:
    ```bash
    pip install -q -U google-generativeai openpyxl
-### No Google Colabs
+### No Google Colab
 1. Gerar a API KEY
 2. incluir na opção "Secrets" (Ícone de uma chave no lado esquerdo)
